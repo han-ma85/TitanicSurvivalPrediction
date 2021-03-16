@@ -1,7 +1,6 @@
 # TitanicSurvivalPrediction
-In this repository I tried to predict if someone survived the Titanic shipwreck using all the classification algorithms(Logistic Regression,Decision Tree,Random Forest,SVM,KNN,XGBOOST,Voting Classifier).Also performed hyper parameter tuning
-Titanic Project Example Walk Through
-In this notebook, I hope to show how a data scientist would go about working through a problem. The goal is to correctly predict if someone survived the Titanic shipwreck. I thought it would be fun to see how well I could do in this compention without deep learning.
+In this notebook I tried to predict if someone survived the Titanic shipwreck using all the classification algorithms(Logistic Regression,Decision Tree,Random Forest,SVM,KNN,XGBOOST,Voting Classifier).Also performed hyper parameter tuning
+
 
 
 
